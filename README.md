@@ -154,9 +154,7 @@ Vor Beginn der Schleifen werden zwei Variablen angelegt.
 
 ## 6. Apply to each – Äußere Schleife
 
-Durchläuft alle eindeutigen Projekte aus dem vorherigen Schritt.
-
-> 📸 *Screenshot: Äußere Apply-to-each-Schleife*
+Durchläuft alle eindeutigen Projekte aus dem vorherigen Schritt
 
 ---
 
